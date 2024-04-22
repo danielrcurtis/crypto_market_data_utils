@@ -1,0 +1,5 @@
+# Ignore Data directory
+/Data/
+
+# Ignore files starting with 'Signal'
+Signal*
