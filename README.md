@@ -79,6 +79,7 @@ The project consists of the following modules:
 - `RetrieveNewsEvents.py`: Retrieves news events from CryptoNews API.
 - `DatasetCreator.py`: Creates datasets based on market information for visualization and training machine learning models.
 - `TaCalcs.py`: A library of technical analysis functions used by the dataset creation program.
+- `tickers.csv`: A list of cryptocurrency tickers. Used as the default input for the MarketData and DatasetCreator modules.
 
 ## Contributing
 
